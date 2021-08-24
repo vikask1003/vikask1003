@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikask1003, presently prusuing Ph.D
+- 👋 Hi, I’m @vikask1003, presently pursuing Ph.D
 - 👀 I’m interested in learning about anomaly detection in wireless sensor network using machine learning.
 - 🌱 I’m currently learning concepts of machine learning.
 - 💞️ I’m looking to collaborate on Intrusion Detection Scheme to detect anomaly in sensor network.
